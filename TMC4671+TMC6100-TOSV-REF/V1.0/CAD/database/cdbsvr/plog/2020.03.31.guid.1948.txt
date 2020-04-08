@@ -1,0 +1,30 @@
+[2020.03.31 10:23:59] [0000m.09s.111ms] [0] WELCOME
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] iCDB Database ver.2.204, aE5DpeRiKziArwHyXcwKDw, build:14754122 created 2019-09-17 08:12:55, sources stamp:aE5DpeRiKziArwHyXcwKDw
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Copyright 2019 Mentor Graphics Corporation.  All Rights Reserved.
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Base flow version [VX.2.4]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Install Id [1845722], Flow Id [PADS VX.2.4], Full Flow Name [PADS VX.2.4], Exact Access Date [2018/08/01]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] UPDATE Install Info, Install Id [2139299], UPDATE Name [PADS VX.2.4 - Update 11]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Machine [TMC-EST-03]  IP [127.0.0.1,192.168.1.120,192.168.137.1]  User [Trinamic]  PID [1948]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Current working dir [C:\work\PADS designs\TMC4671+TMC6200\TMC4671+TMC6100-TOSV-REF_V10\CAD]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] PATH [C:\MentorGraphics\PADSVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.4\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Altium Designer S09 Viewer\System;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\IDEMIA\AWP\Dlls;C:\Program Files\IDEMIA\AWP\Dlls;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Users\Trinamic\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.2\SDD_HOME\CAMCAD;C:\Users\Trinamic\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.4\SDD_HOME] on file system [NTFS]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] SDD_PLATFORM [win32]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.4\SDD_HOME\standard;]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] WARNING: Database [C:\work\PADS designs\TMC4671+TMC6200\TMC4671+TMC6100-TOSV-REF_V10\CAD\database\icdb.dat] was manually copied
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] File change time:        [2020-03-31 10.21.46]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] File modification time:  [2020-01-08 16.20.54]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Last change time:        [2020-01-08 16.20.54]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Last database open information:
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Time:             [2020-01-08 16.17.37]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Location:         [C:\work\PADS designs\TMC4671+TMC6200\TMC4671+TMC6100-BOB_V10\CAD\database\icdb.dat]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Machine:          [TMC-EST-03]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] User:             [Trinamic]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] PID:              [22424]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Application:      [iCDB Server]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Operating system: [Microsoft Business Edition, 64-bit (build 9200)]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] WARNING: Regenerating database GUID
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Previous database GUID [6c63-44fa-65ea-b1f2-5253-b7da-253b-7d50-3a31-8a67-3ac5-d26e]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [3] Current database GUID  [33c4-2c63-5fd8-e118-f00f-28e4-10f2-8e50-abdb-7481-93ee-4f7b]
+[2020.03.31 10:23:59] [0000m.09s.111ms] [0] .
